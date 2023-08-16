@@ -1,6 +1,6 @@
-package com.natanael.cursojava.aula24;
+package com.natanael.cursojava.exercicios;
 
-public class Main {
+public class CarroMain {
 	public static void main(String[] args) {
 		
 		Carro fusca = new Carro();

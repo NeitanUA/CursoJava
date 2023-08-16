@@ -1,4 +1,4 @@
-package com.natanael.cursojava.aula24;
+package com.natanael.cursojava.exercicios;
 
 public class Carro {
 	 String marca;
