@@ -1,4 +1,4 @@
-package com.natanael.cursojava.exercicios;
+package com.natanael.cursojava.exemploaulas;
 
 import java.util.Scanner;
 
